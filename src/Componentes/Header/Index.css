@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Urbanist;
+    src: url(/public/Fonts/Urbanist-ExtraBoldItalic.ttf);
+}
+
+.conteiner-nav{
+    display: flex;
+    justify-content: flex-end;
+
+;
+}
+.nav{
+    
+    justify-content: space-between;
+    margin: 24px;
+    font-size: 45px;
+    font-family: Urbanist, sans-serif;
+}
+
+
+
