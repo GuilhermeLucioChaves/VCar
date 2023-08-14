@@ -1,0 +1,28 @@
+.tab-container {
+  /* Estilos para o container das abas */
+}
+
+.aba {
+  /* Estilos para cada aba */
+}
+
+.active .tab-content {
+  /* Estilos para o conteúdo da aba quando está aberto */
+}
+
+.tab-title-and-icon {
+  display: flex;
+  align-items: center;
+}
+
+.tab-title {
+  /* Estilos para o título da aba */
+ /* Ocupa o espaço disponível */
+}
+
+button {
+  /* Estilos para o botão (ícone) */
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
